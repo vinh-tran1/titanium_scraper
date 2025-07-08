@@ -1,0 +1,6 @@
+product_id,site,sku,fastener_type,material,grade_or_alloy,diameter_mm,length_mm,manufacturer,first_seen_date,last_seen_date
+mcmaster_clone_91251A541,mcmaster_clone,91251A541,machine screw,stainless steel 316,18-8,5,20,Generic Steel Co.,2025-07-07,2025-07-10
+mcmaster_clone_91251A542,mcmaster_clone,91251A542,machine screw,alloy steel,Grade 8,5,20,Generic Steel Co.,2025-07-07,2025-07-10
+mcmaster_clone_T91251A541,mcmaster_clone,T91251A541,machine screw,titanium,Ti-6Al-4V,5,20,Premium Ti Supply,2025-07-07,2025-07-10
+mcmaster_clone_HWB200,mcmaster_clone,HWB200,hex bolt,alloy steel,Grade 5,10,50,Bolts'R'Us,2025-07-07,2025-07-10
+mcmaster_clone_HWB201_TI,mcmaster_clone,HWB201_TI,hex bolt,titanium,Grade 2,10,50,Premium Ti Supply,2025-07-07,2025-07-10
