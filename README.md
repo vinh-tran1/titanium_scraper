@@ -33,6 +33,3 @@ $ streamlit run dashboard.py
 
 ### Dashboard
 
-![Tab 1](assets/tab1.png)
-![Tab 2](assets/tab2.png)
-![Tab 3](assets/tab3.png)
