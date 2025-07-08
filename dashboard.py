@@ -58,7 +58,7 @@ else:
     filtered_df['daily_depletion_rate'] = inventory_change.apply(lambda x: x if pd.notna(x) and x > 0 else 0)
     # ==================================
 
-    # --- Dashboard Tabs ---
+    # --- Dashboard Tabs ---``
     tab1, tab2, tab3 = st.tabs(["Price Benchmarking", "Inventory Velocity", "Market Opportunity"])
 
     with tab1:
